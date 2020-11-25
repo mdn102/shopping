@@ -73,7 +73,7 @@ function Product({ product }) {
             <Button
               aria-label={`Add ${name} to cart`}
               onClick={() => addItem(product)}
-              sx={{ backgroundColor: "teal" }}
+              sx={{ backgroundColor: "green" }}
             >
               Add to Cart
             </Button>

@@ -4,6 +4,7 @@ import Link from "next/link";
 import PropTypes from "prop-types";
 import ShoppingCartIcon from "./shopping-cart-icon";
 
+
 const Header = ({ siteTitle }) => (
   <Box
     as="header"
