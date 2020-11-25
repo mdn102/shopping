@@ -5,7 +5,7 @@ export default {
     primary: "teal",
     modes: {
       dark: {
-        text: "#000",
+        text: "grey",
         background: "#000",
         primary: "green",
       },
