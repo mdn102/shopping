@@ -2,7 +2,7 @@
   {
     "name": "Strawberries",
     "sku": "fruit_123",
-    "price": 800,
+    "price": 700,
     "image": "https://picsum.photos/300/300",
     "currency": "USD",
     "description": "Very tasty red thing",
@@ -11,7 +11,7 @@
   {
     "name": "Apples",
     "sku": "fruit_abc",
-    "price": 400,
+    "price": 500,
     "image": "https://picsum.photos/300/300",
     "currency": "USD",
     "description": "Very tasty green thing",
@@ -29,7 +29,7 @@
   {
     "name": "Blackberries",
     "sku": "fruit_123",
-    "price": 100,
+    "price": 300,
     "image": "https://picsum.photos/300/300",
     "currency": "USD",
     "description": "Very tasty black thing",
